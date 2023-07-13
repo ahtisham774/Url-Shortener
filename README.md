@@ -1,4 +1,4 @@
-# Url-Shortner
+# Url-Shortener
 URL - Shortener Web Application using HTML, CSS and Javascript
 
 # Screenshot
